@@ -47,7 +47,7 @@
 * po1.
 * reau.
 * toalèt.
-* zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
+* carrérond ou zérov.
 
 ## wala.
 
@@ -67,7 +67,7 @@
 * kami.
 * landmark.
 * méfiance.
-* zérom (1 fois) ou zéromala (42 fois ou 3 fois) ou zérov (1 fois).
+* carrérond ou zérov.
 
 ## war z.
 
