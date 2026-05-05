@@ -36,7 +36,7 @@
 * serrure.
 * afèr.
 * espoir.
-* èkc (1 minute).
+* èkc (1 minute ou 59 secondes).
 * ifo.
 
 ## santé.
