@@ -56,29 +56,25 @@
 * patience_attend_couchage.
 * patience_attend_humain.
 * patience_attend_loading.
+* patience_attend_ka.
 * patience_attend_ka_mi_miroir.
 * patience_attend_assis.
 * put.
+* artop1.
 
 ## war.
 
 * cia.
-* denounce.
 * fire song.
+* ka k1 ou ka mi.
 * landmark.
 * méfiance.
-
-## war z.
-
-* ka k1 ou ka mi.
 * popo.
-* t1.
 * une_calomni_passé_ki.
 
 ## amour.
 
 * 1 minute pour les victimes.
-* dézolé.
-* sos.
+* dézolé ou sos.
 * alo.
 * applaudir.
