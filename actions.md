@@ -1,5 +1,11 @@
 # actions.
 
+## daverbs.
+
+* carrérond.
+* carrérondamélioré.
+* miroir.
+
 ## po1.
 
 * big ablution.
