@@ -29,7 +29,6 @@
 * dessin.
 * débara.
 * grat.
-* kami.
 * muzik.
 * pense.
 * put.
@@ -64,14 +63,13 @@
 * dentroa.
 * denounce.
 * fire song.
-* kami.
 * landmark.
 * méfiance.
 * carrérond ou zérov.
 
 ## war z.
 
-* ka k1.
+* ka k1 ou ka mi.
 * t1.
 * une_calomni_passé_ki.
 
