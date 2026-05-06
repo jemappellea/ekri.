@@ -5,6 +5,7 @@
 * carrérond.
 * carrérondamélioré.
 * miroir.
+* zérov.
 
 ## po1.
 
@@ -23,36 +24,31 @@
 * mange.
 * marche (x minutes).
 * nêftroat.
-* pa1 (x minutes).
+* pa1.
+* pade.
 * troat.
 * ablution.
 * assis (x minutes).
 * ēlèv.
 
-## puts.
+## santé.
 
 * 1pulciôvie.
 * dessin.
 * débara.
-* grat.
-* muzik.
-* pense.
-* put.
-* serrure.
-* afèr.
-* espoir.
-* èkc (1 minute ou 59 secondes).
-* ifo.
-
-## santé.
-
 * dodo.
+* grat.
 * landmark.
 * moa.
+* muzik.
+* pense.
 * po1.
 * reau.
+* serrure.
 * toalèt.
-* carrérond ou zérov.
+* afèr.
+* èkc (1 minute ou 59 secondes).
+* ifo.
 
 ## wala.
 
@@ -60,22 +56,22 @@
 * patience_attend_couchage.
 * patience_attend_humain.
 * patience_attend_loading.
-* patience_attend_kami_miroir.
+* patience_attend_ka_mi_miroir.
 * patience_attend_assis.
+* put.
 
 ## war.
 
 * cia.
-* dentroa.
 * denounce.
 * fire song.
 * landmark.
 * méfiance.
-* carrérond ou zérov.
 
 ## war z.
 
 * ka k1 ou ka mi.
+* popo.
 * t1.
 * une_calomni_passé_ki.
 
