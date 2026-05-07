@@ -5,7 +5,7 @@
 * carrérond.
 * carrérondamélioré.
 * min.
-* miroir.
+* moa.
 * zérov.
 * ifoalé.
 
