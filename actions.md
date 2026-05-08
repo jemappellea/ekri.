@@ -4,6 +4,7 @@
 
 * carrérond.
 * carrérondamélioré.
+* dea.
 * min.
 * moa.
 * zérov.
