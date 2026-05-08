@@ -2,11 +2,16 @@
 
 ## daverbs.
 
+* 1pulciôvi.
 * carrérond.
 * carrérondamélioré.
 * dea.
 * min.
 * moa.
+* patience_attend_debout.
+* patience_attend_humain.
+* patience_attend_loading.
+* patience_attend_assis.
 * ifoalé.
 
 ## po1.
@@ -50,19 +55,6 @@
 * toalèt.
 * afèr.
 * èkc (1 minute ou 59 secondes).
-* ifo.
-
-## wala.
-
-* patience_attend_debout.
-* patience_attend_couchage.
-* patience_attend_humain.
-* patience_attend_loading.
-* patience_attend_ka.
-* patience_attend_ka_mi_miroir.
-* patience_attend_assis.
-* put.
-* artop1.
 
 ## war.
 
