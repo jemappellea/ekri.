@@ -7,7 +7,6 @@
 * dea.
 * min.
 * moa.
-* zérov.
 * ifoalé.
 
 ## po1.
