@@ -35,40 +35,12 @@
 * pade.
 * troat.
 * ablution.
+* alo.
+* applaudir.
 * assis (x minutes).
 * ēlèv.
-
-## santé.
-
-* 1pulciôvie.
-* dessin.
-* débara.
-* dodo.
-* grat.
-* landmark.
-* moa.
-* muzik.
-* pense.
-* po1.
-* reau.
-* serrure.
-* toalèt.
-* afèr.
-* èkc (1 minute ou 59 secondes).
-
-## war.
-
-* cia.
-* fire song.
-* ka k1 ou ka mi.
-* landmark.
-* méfiance.
-* popo.
-* une_calomni_passé_ki.
 
 ## amour.
 
 * 1 minute pour les victimes.
 * dézolé ou sos.
-* alo.
-* applaudir.
