@@ -6,6 +6,7 @@
 * carrérond.
 * carrérondamélioré.
 * dea.
+* kèc.
 * min.
 * moa.
 * négroté.
