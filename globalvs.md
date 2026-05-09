@@ -5,6 +5,7 @@
 * globalv boue ou bō.
 * globalv calomni.
 * globalv connais toi toit même.
+* globalv ça sens ou ça sent ou tule.
 * globalv devoirs.
 * globalv globalvs.
 * globalv ki.
