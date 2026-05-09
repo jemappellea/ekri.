@@ -11,6 +11,7 @@
 * globalv gant thanos ou gens thanos ou gē tanoc
 * globalv ki.
 * globalv l'ui.
+* globalv magie ou magic ou maji.
 * globalv mort ou mör.
 * globalv pliométrik.
 * globalv piratfinal.
@@ -21,3 +22,4 @@
 * globalv veau.
 * globalv victimes.
 * globalv je va uu plutar.
+* globalv ou.
