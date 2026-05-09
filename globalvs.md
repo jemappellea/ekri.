@@ -15,6 +15,7 @@
 * globalv pliométrik.
 * globalv piratfinal.
 * globalv trop tard.
+* globalv conseils ou tips.
 * globalv toka.
 * globalv tudön1truk mathafuck.
 * globalv veau.
