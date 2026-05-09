@@ -32,6 +32,7 @@
 * hand.
 * head.
 * jila.
+* kèc.
 * kōpo1ga.
 * libre.
 * mainblution.
