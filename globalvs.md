@@ -9,6 +9,7 @@
 * globalv l'ui.
 * globalv piratfinal.
 * globalv trop tard.
+* globalv toka.
 * globalv tudön1truk mathafuck.
 * globalv veau.
 * globalv victimes.
