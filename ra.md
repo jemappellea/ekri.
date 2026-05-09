@@ -33,6 +33,7 @@
 * si j'ai kōrbatur ➡️ je peux kôprèc.
 * si j'ai kōrbatur ➡️ je peux mackōr.
 * si j'ai kōrbatur ➡️ je peux po1.
+* si je dis "je min" ➡️ je dois négroté.
 * attention (grat visage).
 * attention (main stylo visage).
 * attention (yeux zérom zéromala zérov).
