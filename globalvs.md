@@ -2,6 +2,7 @@
 
 * globalv bizar.
 * globalv bonne nouvelle.
+* globalv boue ou bō.
 * globalv calomni.
 * globalv connais toi toit même.
 * globalv devoirs.
