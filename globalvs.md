@@ -7,6 +7,7 @@
 * globalv globalvs.
 * globalv ki.
 * globalv l'ui.
+* globalv pliométrik.
 * globalv piratfinal.
 * globalv trop tard.
 * globalv toka.
