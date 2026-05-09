@@ -8,6 +8,7 @@
 * dea.
 * min.
 * moa.
+* négroté.
 * patience_attend_debout.
 * patience_attend_défèk.
 * patience_attend_humain.
