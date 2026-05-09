@@ -8,6 +8,7 @@
 * globalv ça sens ou ça sent ou tule.
 * globalv devoirs.
 * globalv globalvs.
+* globalv gant thanos ou gens thanos ou gē tanoc
 * globalv ki.
 * globalv l'ui.
 * globalv mort ou mör.
