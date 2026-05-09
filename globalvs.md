@@ -1,18 +1,10 @@
 # globalvs.
 
-* ya la globalv = globalv bêtise.
-* ya la globalv = globalv calomni.
-* ya la globalv = globalv comparer.
+* globalv bêtise.
+* globalv calomni.
+* globalv con.
 * globalv devoirs.
-* globalv frizjo1.
-* globalv frizjōr.
-* globalv fiesta.
 * globalv globalvs.
-* globalv kalēdrié.
-* globalv kalēdriémarkêr.
 * globalv ki.
-* globalv po1.
-* globalv secrets.
+* globalv l'ui.
 * globalv victimes.
-* globalv artop1.
-* globalv ancrage.
