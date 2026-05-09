@@ -1,5 +1,6 @@
 # globalvs.
 
+* globalv bonne nouvelle.
 * globalv calomni.
 * globalv connais toi toit même.
 * globalv devoirs.
