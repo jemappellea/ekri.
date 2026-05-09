@@ -23,3 +23,4 @@
 * globalv victimes.
 * globalv je va uu plutar.
 * globalv ou.
+* globalv inutile ou useless.
