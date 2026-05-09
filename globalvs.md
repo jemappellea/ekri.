@@ -7,4 +7,5 @@
 * globalv ki.
 * globalv l'ui.
 * globalv piratfinal.
+* globalv veau.
 * globalv victimes.
