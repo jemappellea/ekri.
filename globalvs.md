@@ -11,6 +11,7 @@
 * globalv kalēdrié.
 * globalv kalēdriémarkêr.
 * globalv ki.
+* globalv kikinêr.
 * globalv po1.
 * globalv secret.
 * globalv artop1.
