@@ -6,7 +6,6 @@
 * carrérond.
 * carrérondamélioré.
 * dea.
-* kèc.
 * min.
 * moa.
 * négroté.
@@ -14,6 +13,7 @@
 * patience_attend_défèk.
 * patience_attend_humain.
 * patience_attend_loading.
+* patience_attend_vomi.
 * patience_attend_assis.
 * patience_attend_urin.
 * veau.
