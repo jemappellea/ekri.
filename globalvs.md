@@ -11,8 +11,8 @@
 * globalv kalēdrié.
 * globalv kalēdriémarkêr.
 * globalv ki.
-* globalv kikinêr.
 * globalv po1.
-* globalv secret.
+* globalv secrets.
+* globalv victimes.
 * globalv artop1.
 * globalv ancrage.
