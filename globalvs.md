@@ -1,6 +1,5 @@
 # globalvs.
 
-* globalv bêtise.
 * globalv calomni.
 * globalv con.
 * globalv devoirs.
