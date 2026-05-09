@@ -14,7 +14,10 @@
 * patience_attend_loading.
 * patience_attend_assis.
 * patience_attend_urin.
+* veau.
 * ifoalé.
+* oo.
+* uu.
 
 ## po1.
 
