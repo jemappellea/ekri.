@@ -17,6 +17,7 @@
 * patience__attend__assis.
 * patience__attend__urin.
 * veau.
+* vèf.
 * ifoalé.
 * oo.
 * uu.
