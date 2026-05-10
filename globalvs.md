@@ -28,5 +28,6 @@
 * globalv vēkiblak.
 * globalv victimes.
 * globalv je va uu plutar.
+* globalv ex.
 * globalv ou.
 * globalv inutile ou useless.
