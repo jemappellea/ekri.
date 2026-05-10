@@ -20,6 +20,7 @@
 * globalv trace.
 * globalv triste & drôle.
 * globalv trop tard.
+* globalv téla.
 * globalv conseils ou tips.
 * globalv toka.
 * globalv tudön1truk mathafuck.
