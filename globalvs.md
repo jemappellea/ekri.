@@ -1,7 +1,7 @@
 # globalvs.
 
 * globalv bizar.
-* globalv ba ouais ou occupé.
+* globalv ba ouais ou ba oui ou occupé.
 * globalv baby army ou agar final.
 * globalv bonne nouvelle.
 * globalv boue ou bō.
