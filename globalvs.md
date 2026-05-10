@@ -16,6 +16,7 @@
 * globalv mort ou mör.
 * globalv pliométrik.
 * globalv piratfinal.
+* globalv trace.
 * globalv trop tard.
 * globalv conseils ou tips.
 * globalv toka.
