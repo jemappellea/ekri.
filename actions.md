@@ -20,6 +20,7 @@
 * patience__attend__assis.
 * patience__attend__urin.
 * po1 ou po1wè ou po1wèwè.
+* ve.
 * veau.
 * vé.
 * vèf.
