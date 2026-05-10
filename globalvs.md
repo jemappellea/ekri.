@@ -33,6 +33,7 @@
 * globalv vēkiblak.
 * globalv victimes.
 * globalv je va uu plutar.
+* globalv zone.
 * globalv et.
 * globalv ex.
 * globalv évité.
