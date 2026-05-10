@@ -44,7 +44,7 @@
 * hand.
 * head.
 * jila.
-* kèc.
+* kèc (1 minute ou 59 secondes).
 * kōpo1ga.
 * libre.
 * mainblution.
