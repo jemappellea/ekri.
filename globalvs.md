@@ -18,6 +18,7 @@
 * globalv pliométrik.
 * globalv piratfinal.
 * globalv trace.
+* globalv triste & drôle.
 * globalv trop tard.
 * globalv conseils ou tips.
 * globalv toka.
