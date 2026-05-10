@@ -21,6 +21,7 @@
 * patience__attend__urin.
 * po1 ou po1wè ou po1wèwè.
 * veau.
+* vé.
 * vèf.
 * ifoalé.
 * oo.
