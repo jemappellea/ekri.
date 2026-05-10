@@ -7,6 +7,8 @@
 * carrérondamélioré.
 * dea.
 * flatul.
+* gratjénital.
+* gratvizaj.
 * min.
 * moa.
 * négroté.
