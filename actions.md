@@ -6,6 +6,7 @@
 * carrérond.
 * carrérondamélioré.
 * dea.
+* flatul.
 * min.
 * moa.
 * négroté.
