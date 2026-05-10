@@ -4,7 +4,8 @@
 
 * 1pulciôvi.
 * carrérond.
-* carrérondamélioré.
+* carréronda.
+* carrérondat.
 * dea.
 * flatul.
 * gratbōh ou gratkör.
