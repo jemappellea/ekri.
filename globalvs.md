@@ -9,7 +9,7 @@
 * globalv ça sens ou ça sent ou tule.
 * globalv devoirs.
 * globalv globalvs.
-* globalv gant thanos ou gens thanos ou gē tanoc
+* globalv gant thanos ou gens thanos ou gē tanoc.
 * globalv jeu ou game.
 * globalv ki.
 * globalv l'ui.
