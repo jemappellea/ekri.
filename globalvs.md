@@ -17,6 +17,7 @@
 * globalv l'ui.
 * globalv magie ou magic ou maji ou magique.
 * globalv mort ou mör.
+* globalv nomé.
 * globalv pliométrik.
 * globalv piratfinal.
 * globalv trace.
