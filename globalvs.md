@@ -12,7 +12,7 @@
 * globalv gant thanos ou gens thanos ou gē tanoc
 * globalv ki.
 * globalv l'ui.
-* globalv magie ou magic ou maji.
+* globalv magie ou magic ou maji ou magique.
 * globalv mort ou mör.
 * globalv pliométrik.
 * globalv piratfinal.
