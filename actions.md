@@ -15,6 +15,7 @@
 * gratvizaj ou gratkör.
 * gratye ou gratkör.
 * gratorèy ou gratkör.
+* kèc1.
 * min.
 * moa.
 * moi.
