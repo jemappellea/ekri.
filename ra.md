@@ -32,7 +32,7 @@
 * si climat_froid ➡️ je peux va à domicil.
 * si j'ai kōrbatur ➡️ je peux kôprèc.
 * si j'ai kōrbatur ➡️ je peux mackōr.
-* si j'ai kōrbatur ➡️ je peux po1.
+* si j'ai kōrbatur ➡️ je peux min.
 * si je dis "je min" ➡️ je dois négroté.
 * attention (grat visage).
 * attention (main stylo visage).
