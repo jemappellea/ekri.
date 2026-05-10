@@ -23,6 +23,7 @@
 * globalv va.
 * globalv va ou 1 minute silence pour victimes existe.
 * globalv veau.
+* globalv vēkiblak.
 * globalv victimes.
 * globalv je va uu plutar.
 * globalv ou.
