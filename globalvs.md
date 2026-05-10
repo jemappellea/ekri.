@@ -10,6 +10,7 @@
 * globalv devoirs.
 * globalv globalvs.
 * globalv gant thanos ou gens thanos ou gē tanoc
+* globalv jeu ou game.
 * globalv ki.
 * globalv l'ui.
 * globalv magie ou magic ou maji ou magique.
