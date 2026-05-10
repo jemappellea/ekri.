@@ -20,6 +20,7 @@
 * globalv nomé.
 * globalv pliométrik.
 * globalv piratfinal.
+* globalv spectrum.
 * globalv trace.
 * globalv triste & drôle.
 * globalv trop tard.
