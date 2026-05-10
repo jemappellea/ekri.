@@ -32,5 +32,6 @@
 * globalv victimes.
 * globalv je va uu plutar.
 * globalv ex.
+* globalv évité.
 * globalv ou.
 * globalv inutile ou useless.
