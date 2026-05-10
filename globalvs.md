@@ -20,6 +20,8 @@
 * globalv conseils ou tips.
 * globalv toka.
 * globalv tudön1truk mathafuck.
+* globalv va.
+* globalv va ou 1 minute silence pour victimes existe.
 * globalv veau.
 * globalv victimes.
 * globalv je va uu plutar.
