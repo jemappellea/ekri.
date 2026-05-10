@@ -7,7 +7,7 @@
 * globalv boue ou bō.
 * globalv calomni.
 * globalv connais toi toit même.
-* globalv ça sens ou ça sent ou tule.
+* globalv ça sens ou ça sent ou tule ou téla.
 * globalv devoirs.
 * globalv globalvs.
 * globalv gant thanos ou gens thanos ou gē tanoc.
