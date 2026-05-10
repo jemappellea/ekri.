@@ -7,8 +7,13 @@
 * carrérondamélioré.
 * dea.
 * flatul.
+* gratbōh.
 * gratjénital.
+* gratkör.
+* gratné.
 * gratvizaj.
+* gratye.
+* gratorèy.
 * min.
 * moa.
 * négroté.
