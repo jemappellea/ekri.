@@ -16,6 +16,7 @@
 * gratorèy ou gratkör.
 * min.
 * moa.
+* moi.
 * négroté.
 * patience__attend__debout.
 * patience__attend__défèk.
@@ -29,7 +30,6 @@
 * veau.
 * vé.
 * vèf.
-* ifoalé.
 * oo.
 * uu.
 
