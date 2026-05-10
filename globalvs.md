@@ -6,6 +6,7 @@
 * globalv bonne nouvelle.
 * globalv boue ou bō.
 * globalv calomni.
+* globalv katactröf et oribl.
 * globalv connais toi toit même.
 * globalv ça sens ou ça sent ou tule ou téla.
 * globalv devoirs.
