@@ -9,5 +9,6 @@
 * rose.
 * rouge.
 * vert.
+* violet.
 * vētablak.
 * orange.
