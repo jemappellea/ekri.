@@ -1,6 +1,6 @@
 # actions.
 
-## daverbs.
+## davèrbs.
 
 * 1pulciôvi.
 * carrérond.
