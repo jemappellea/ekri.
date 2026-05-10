@@ -16,13 +16,14 @@
 * patience__attend__vomi.
 * patience__attend__assis.
 * patience__attend__urin.
+* po1 ou po1wè.
 * veau.
 * vèf.
 * ifoalé.
 * oo.
 * uu.
 
-## po1.
+## min.
 
 * big ablution.
 * boar ou boaro.
