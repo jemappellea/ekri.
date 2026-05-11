@@ -63,6 +63,10 @@
 * assis (x minutes).
 * ēlèv.
 
+## ultramin.
+
+* moa a.
+
 ## amour.
 
 * 1 minute pour les victimes.
