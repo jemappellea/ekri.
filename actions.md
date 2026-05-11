@@ -37,7 +37,7 @@
 
 ## min.
 
-* big ablution.
+* oo.
 * boar ou boaro.
 * debout (x minutes).
 * couchage (x minutes).
@@ -65,6 +65,7 @@
 
 ## ultramin.
 
+* big ablution.
 * moa a.
 
 ## amour.
