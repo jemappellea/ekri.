@@ -5,7 +5,6 @@
 * globalv baby army ou agar final.
 * globalv boue ou bō.
 * globalv dudu.
-* globalv katactröf et oribl et calomni.
 * globalv connais toi toit même.
 * globalv ça sens ou ça sent ou tule ou téla.
 * globalv devoirs.
