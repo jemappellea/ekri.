@@ -1,6 +1,7 @@
 * blanc.
 * bleu.
 * beige.
+* domaj.
 * gris.
 * gris foncé.
 * jaune.
