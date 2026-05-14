@@ -5,6 +5,7 @@
 * gris.
 * gris foncé.
 * jaune.
+* k1zêr.
 * marron.
 * noir.
 * rose.
