@@ -6,6 +6,7 @@
 * gris foncé.
 * jaune.
 * k1zêr.
+* klimafroa.
 * marron.
 * noir.
 * rose.
