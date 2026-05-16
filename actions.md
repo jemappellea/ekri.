@@ -3,11 +3,9 @@
 ## davèrbs.
 
 * 1pulciôvi.
-* carrérond.
-* carréronda.
-* carrérondat.
 * dea.
 * flatul.
+* oops.
 * gratbōh ou gratkör.
 * gratjénital ou gratkör.
 * gratkör.
@@ -15,11 +13,6 @@
 * gratvizaj ou gratkör.
 * gratye ou gratkör.
 * gratorèy ou gratkör.
-* kèc1.
-* min.
-* moa.
-* moi.
-* négroté.
 * patience__attend__debout.
 * patience__attend__défèk.
 * patience__attend__humain.
@@ -27,13 +20,6 @@
 * patience__attend__vomi.
 * patience__attend__assis.
 * patience__attend__urin.
-* po1 ou po1wè ou po1wèwè ou po1wèwèwè ou po1ba.
-* ve.
-* veau.
-* vé.
-* vèf.
-* oo.
-* uu.
 
 ## min.
 
@@ -66,7 +52,13 @@
 ## ultramin.
 
 * big ablution.
-* moa a.
+* dea.
+* douche.
+* dōh.
+* que ⬇️ ou ke ⬇️.
+* moa.
+* va.
+* veau.
 
 ## amour.
 
