@@ -21,7 +21,7 @@
 * patience__attend__assis.
 * patience__attend__urin.
 
-## min.
+## min (jakcélèr).
 
 * oo.
 * boar ou boaro.
@@ -49,7 +49,7 @@
 * assis (x minutes).
 * ēlèv.
 
-## ultramin.
+## ultramin (signé).
 
 * big ablution.
 * dea.
