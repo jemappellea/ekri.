@@ -13,12 +13,9 @@
 * gratvizaj ou gratkör.
 * gratye ou gratkör.
 * gratorèy ou gratkör.
-* patience__attend__debout.
 * patience__attend__défèk.
 * patience__attend__humain.
 * patience__attend__loading.
-* patience__attend__vomi.
-* patience__attend__assis.
 * patience__attend__urin.
 
 ## min (jakcélèr).
